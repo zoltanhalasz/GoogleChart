@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleChart", "GoogleChart\GoogleChart.csproj", "{6DC2ED1F-442A-425C-B38D-8EA149F23533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC2ED1F-442A-425C-B38D-8EA149F23533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC2ED1F-442A-425C-B38D-8EA149F23533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC2ED1F-442A-425C-B38D-8EA149F23533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC2ED1F-442A-425C-B38D-8EA149F23533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A23FD547-3B90-43E4-8FF2-7CC8ECAB23C7}
+	EndGlobalSection
+EndGlobal
